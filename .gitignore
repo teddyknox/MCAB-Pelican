@@ -1,0 +1,6 @@
+sublime*
+*~
+*.pyc
+pelican.pid
+srv.pid
+output
