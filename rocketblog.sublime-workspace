@@ -5,15 +5,24 @@
 		[
 		]
 	},
-	"buffers":
-	[
-	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 375.0,
+		"height": 81.0,
 		"selected_items":
 		[
+			[
+				"jij",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"jin",
+				"Set Syntax: HTML (Jinja Templates)"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"djan",
 				"Set Syntax: HTML (Django)"
@@ -25,10 +34,6 @@
 			[
 				"remov",
 				"Package Control: Remove Package"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"dja",
@@ -65,6 +70,30 @@
 	},
 	"file_history":
 	[
+		"/Users/teddyknox/Workspace/Python/rocketblog/output/theme/css/style.less",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/base.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/article.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/content/bootstrap2vs3.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/index.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/modules/idl.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/modules/pagination.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/modules/analytics.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/page.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/.gitignore",
+		"/Users/teddyknox/Workspace/Python/rocketblog/publishconf.py",
+		"/Users/teddyknox/Workspace/Python/rocketblog/pelicanconf.py",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/static/css/style.less",
+		"/Users/teddyknox/Workspace/Python/rocketblog/Makefile",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/Makefile",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/categories.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/requirements.txt",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/static/js/less-1.3.3.min.js",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/templates/archives.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/static/images/logo.png",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/static/css/style.css",
+		"/Users/teddyknox/Workspace/Python/rocketblog/themes/rocket/base.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/output/categories.html",
+		"/Users/teddyknox/Workspace/Python/rocketblog/output/author/brian-nat-and-teddy.html",
 		"/Users/teddyknox/Workspace/Python/rocketlistings/rocket/apps/registration/views.py",
 		"/Users/teddyknox/Workspace/Python/rocketlistings/rocket/apps/users/views.py",
 		"/Users/teddyknox/Workspace/Python/rocketlistings/rocket/apps/listings/views.py",
@@ -168,28 +197,7 @@
 		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/templates/partials/listings_table.html",
 		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/rocketlistings/static/css/global.less",
 		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/templates/listings_dashboard.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/models.py",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/static_pages/templates/static_pages_base.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/static_pages/templates/static_marginless.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/rocketlistings/templates/marginless.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/rocketlistings/templates/partials/header-fixed.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/templates/listings_base.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/static/js/listings.js",
-		"/Users/teddyknox/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
-		"/Users/teddyknox/Library/Application Support/Sublime Text 3/Packages/Emmet/Default (OSX).sublime-keymap",
-		"/Users/teddyknox/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/rocket.sublime-project",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/templates/partials/buyers_cards.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/static/js/listings_dashboard.js",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/templates/partials/messages_panel.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/rocketlistings/templates/partials/footer-fixed.html",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/registration/locale/pt_BR/LC_MESSAGES/django.mo",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/.gitignore",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/rocketlistings/static/css/global.css",
-		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/static_pages/templates/home.html",
-		"/Users/teddyknox/Workspace/Python/Rocket-Listings-Django/manage.py",
-		"/Users/teddyknox/Workspace/get-pip.py",
-		"/Users/teddyknox/Music/iTunes/iTunes Music Library.xml"
+		"/Users/teddyknox/Workspace/Python/rocketlistings/apps/listings/models.py"
 	],
 	"find":
 	{
@@ -200,6 +208,7 @@
 		"height": 103.0,
 		"where_history":
 		[
+			"/Users/teddyknox/Workspace/Python/rocketblog/",
 			"/Users/teddyknox/Workspace/Python/rocketlistings/",
 			"/Users/teddyknox/Workspace/Python/rocketlistings/rocket/apps",
 			"/Users/teddyknox/Workspace/Python/rocketlistings/apps",
@@ -213,6 +222,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"h3",
+			"GOOGLE_ANALYTICS",
+			"publishconf",
 			"channel",
 			"static",
 			"Clothes and accessories",
@@ -293,14 +305,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 26.0
@@ -332,7 +336,6 @@
 		]
 	},
 	"menu_visible": true,
-	"project": "rocketblog.sublime-project",
 	"replace":
 	{
 		"height": 70.0
@@ -343,6 +346,30 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"base.",
+				"themes/rocket/templates/base.html"
+			],
+			[
+				"styl",
+				"output/theme/css/style.less"
+			],
+			[
+				"bot",
+				"content/bootstrap2vs3.html"
+			],
+			[
+				"req",
+				"requirements.txt"
+			],
+			[
+				"base",
+				"themes/rocket/templates/base.html"
+			],
+			[
+				"make",
+				"Makefile"
+			],
 			[
 				"usersmodel",
 				"rocket/apps/users/models.py"
@@ -508,10 +535,6 @@
 				"rocket/static/listings/less/listings.less"
 			],
 			[
-				"base",
-				"rocket/templates/base.html"
-			],
-			[
 				"margin",
 				"rocket/templates/marginless.html"
 			],
@@ -674,10 +697,6 @@
 			[
 				"listingsbas",
 				"rocket/templates/listings/base.html"
-			],
-			[
-				"req",
-				"reqs/common.txt"
 			],
 			[
 				"usersbas",
