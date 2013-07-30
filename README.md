@@ -58,5 +58,9 @@ At the begining of every post file should be metadata associated with the post. 
     	</body>
     </html>
 
+All the details of how to do syntax highlighting and internal file linking is described in the pelican documentation.
 
+To test, run `make html` and then `make serve` from the project directory. Normally you would have to go through this process every time you wanted to see changes in the files reflected, but for active develoment there's the devserver, which automatically recompiles the site whenever it detects a single file has changed. Run it with `make devserver`. Stop it with `./develop_server.sh stop`. Sometime you might have to stop the server twice... it's a little weird.
+
+If you commit and push then I can deploy for now. If you're super interested in deployment look at [http://lexual.com/blog/setup-pelican-blog-on-s3/](http://lexual.com/blog/setup-pelican-blog-on-s3/).
 
