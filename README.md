@@ -1,4 +1,4 @@
-# Rocket Blog
+# MCAB Static Site
 
 Hosted at blog.rocketlistings.com in an s3 bucket with the same name. It's powered by a Python static site generator called [Pelican](http://docs.getpelican.com/en/3.2/).
 

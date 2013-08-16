@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = u'Sirkia<br>Kelner<br>Knox'
-SITENAME = u'Rocket Blog'
+AUTHOR = u'MCAB'
+SITENAME = u'MCAB'
 # SITEURL = 'http://blog.rocketlistings.com'
 USER_LOGO_URL = "theme/images/logo.png"
-TAGLINE = "The joint blog of three<br>Rocket Engineers."
+TAGLINE = "Middlebury's Activities Board."
 
 TIMEZONE = 'America/New_York'
 
@@ -35,4 +35,4 @@ THEME = 'themes/rocket'
 PLUGIN_PATH = "plugins"
 PLUGINS = ['assets']
 WEBASSETS = True
-INTERNET_DEFENSE_LEAGUE = True
+INTERNET_DEFENSE_LEAGUE = False
