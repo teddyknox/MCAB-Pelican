@@ -4,3 +4,4 @@ sublime*
 pelican.pid
 srv.pid
 output
+.env
