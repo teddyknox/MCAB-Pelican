@@ -18,7 +18,7 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 
 # Blogroll
-LINKS =  (('Launchrock Page', 'http://signup.rocketlistings.com/'),)
+# LINKS =  (('Launchrock Page', 'http://signup.rocketlistings.com/'),)
 
 # Social widget
 SOCIAL = () #('Another social link', '#'),)

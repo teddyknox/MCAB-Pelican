@@ -1,6 +1,10 @@
 # MCAB Static Site
 
-Hosted at blog.rocketlistings.com in an s3 bucket with the same name. It's powered by a Python static site generator called [Pelican](http://docs.getpelican.com/en/3.2/).
+
+mcab.middlebury.edu.s3-website-us-east-1.amazonaws.com
+
+
+It's powered by a Python static site generator called [Pelican](http://docs.getpelican.com/en/3.2/).
 
 This [Getting started](http://docs.getpelican.com/en/3.2/getting_started.html) documentaiton gives a pretty good idea of how how the framework works.
 

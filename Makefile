@@ -17,7 +17,7 @@ SSH_PORT=22
 SSH_USER=root
 SSH_TARGET_DIR=/var/www
 
-S3_BUCKET=blog.middlebury.edu
+S3_BUCKET=mcab.middlebury.edu
 
 DROPBOX_DIR=~/Dropbox/Public/
 
